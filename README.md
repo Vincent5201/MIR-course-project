@@ -3,6 +3,7 @@
 
 This project introduces an innovative approach to Music Information Retrieval (MIR): **transforming audio signals into geometric texture images—specifically, Self-Similarity Matrices (SSM) and Cross-Similarity Matrices (CSM)—and pioneering their deployment as inputs for Vision-Language Models (VLMs) to align with high-level musical semantics.**
 > Below is a summary. Please check the full report for details (available in Chinese).
+> This is a final project in nusic information retrival course.
 ---
 
 ##  Motivation & Core Concepts
