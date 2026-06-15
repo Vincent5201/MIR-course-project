@@ -1,0 +1,7 @@
+seed: 42
+batch: 16
+lr: 1e-6
+
+dataset:
+  csv_path: "/home/vincent071659/MIR/MagnaTagATune/annotations_clean_top50.csv"
+  audio_dir: "/home/vincent071659/MIR/MagnaTagATune/MagnaTagATune"
